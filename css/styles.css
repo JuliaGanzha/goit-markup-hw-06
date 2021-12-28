@@ -245,7 +245,6 @@ body {
 
 .close:hover,
 .close:focus {
-  background-color: #2196f3;
   color: #f5f4fa;
   background-image: url(../images/close2.jpg);
 }
